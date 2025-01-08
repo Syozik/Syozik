@@ -40,9 +40,8 @@ class SoftwareDeveloper:
 
 ### 🌱 Currently Learning
 
-- Advanced System Design
 - Cloud Architecture
-- Machine Learning
+- Mobile Development
 
 ### 📫 How to Reach Me
 
