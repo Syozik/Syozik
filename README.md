@@ -29,18 +29,14 @@ class SoftwareDeveloper:
 
 ### 📊 GitHub Analytics
 
-<a href="https://github.com/your-github-username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/Syozik">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syozik&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syozik&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
 ### 🚀 Featured Projects
 
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name&theme=dark)](https://github.com/your-github-username/repo-name)
-
-### 📈 Contributions
-
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 ### 🌱 Currently Learning
 
@@ -50,21 +46,7 @@ class SoftwareDeveloper:
 
 ### 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Name](your-linkedin-url)
-- 🌐 Website: [your-website.com](your-website-url)
+- 📧 Email: rubanskiysergiy@gmail.com
+- 💼 LinkedIn: [Serhii Rubanskyi](https://www.linkedin.com/in/serhii-rubanskyi-079832210/)
 
-### ⚡ Fun Facts
 
-- 🎮 I love playing strategy games
-- 📚 Always reading a new tech book
-- ☕ Coffee enthusiast
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Article Title 1](article-url-1)
-- [Article Title 2](article-url-2)
-- [Article Title 3](article-url-3)
-<!-- BLOG-POST-LIST:END -->
