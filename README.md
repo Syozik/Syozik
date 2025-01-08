@@ -1,6 +1,6 @@
 # Hi there, I'm Serhii Rubanskyi 👋
 
-## 🚀 Software Developer | Problem Solver | Tech Enthusiast
+## 🚀 Software Developer | Problem Solver 
 
 ### 👨‍💻 About Me
 
