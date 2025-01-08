@@ -36,7 +36,7 @@ class SoftwareDeveloper:
 
 ### 🚀 Featured Projects
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name&theme=dark)](https://github.com/your-github-username/repo-name)
+[![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=Syozik&repo=battleship&theme=dark)](https://github.com/Syozik/battleship)
 
 ### 🌱 Currently Learning
 
