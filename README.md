@@ -2,8 +2,6 @@
 
 ## 🚀 Software Developer | Problem Solver | Tech Enthusiast
 
-![Profile Views](https://komarev.com/ghpv/?username=Syozik&color=brightgreen)
-
 ### 👨‍💻 About Me
 
 ```python
@@ -16,9 +14,6 @@ class SoftwareDeveloper:
         self.frameworks = ["React", "Node.js", "Django"]
 ```
 
-### 🔥 My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syozik&theme=dark)](https://git.io/streak-stats)
 
 ### 🛠️ Technologies & Tools
 
