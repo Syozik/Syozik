@@ -36,7 +36,6 @@ class SoftwareDeveloper:
 ### 🌱 Currently Learning
 
 - Cloud Architecture
-- Mobile Development
 
 ### 📫 How to Reach Me
 
