@@ -1,4 +1,4 @@
-# Hi there, I'm Serhii Rubanskyi 👋
+# Hey,  I'm Serhii Rubanskyi 👋
 
 ## 🚀 Software Developer | Problem Solver 
 
